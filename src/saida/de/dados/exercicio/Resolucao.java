@@ -2,7 +2,7 @@ package saida.de.dados.exercicio;
 
 import java.util.Locale;
 
-public class Exercicio {
+public class Resolucao {
 	
 	public static void main(String[] args) {
 		String product1 = "Computer";
